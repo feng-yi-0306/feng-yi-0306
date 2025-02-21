@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feng-yi-0306
-- 👀 I’m interested in sicence, technology and nature.
+- 👀 I’m interested in science, technology and nature.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on the script of processing the EBSD. 
 - 📫 How to reach me 
